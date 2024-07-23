@@ -10,14 +10,3 @@ Aplikasi ini untuk mengelola pencatatan surat masuk dan surat keluar (disposisi)
 - Multilevel user
 - Fitur backup dan restore database
 
-Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahulu. Caranya,
-
-- Buka folder **include** lalu edit file **config.php** lalu sesuaikan `username`, `password` dan `database` dengan yang Anda gunakan.
-
-Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
-
-Inspired by Nur Akhwam.
-
----
-
-Ini adalah source code dari postingan https://masrud.com/aplikasi-manajemen-surat/
